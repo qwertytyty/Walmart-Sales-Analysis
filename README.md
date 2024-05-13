@@ -16,8 +16,8 @@ The sales analysis aims to uncover sales trends for different product lines. By 
 Customer Analysis:
 This analysis delves into customer segmentation, purchase trends, and the profitability of different customer segments. Understanding customer behavior and preferences can inform targeted marketing efforts and enhance customer satisfaction.
 
-**Approach Used:
-**
+**Approach Used:**
+
 Data Wrangling:
 The first step involves inspecting the data to identify and handle missing or NULL values. Data replacement methods are used where necessary to ensure data integrity.
 
